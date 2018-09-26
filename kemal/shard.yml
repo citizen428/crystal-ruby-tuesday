@@ -1,0 +1,15 @@
+name: test
+version: 0.1.0
+
+dependencies:
+  kemal:
+    github: kemalcr/kemal
+#   pg:
+#     github: will/crystal-pg
+#     version: "~> 0.5"
+
+# development_dependencies:
+#   webmock:
+#     github: manastech/webmock.cr
+
+# license: MIT
